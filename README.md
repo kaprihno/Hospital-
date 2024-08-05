@@ -1,5 +1,5 @@
-# Hospital-
-Data cleaning and analysis (MySQL)
+# Hospital Data cleaning and analysis (MySQL)
+
 Health Care Data Analysis
 
 Hospitals Data Analysis Report
